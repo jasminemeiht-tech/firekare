@@ -1,0 +1,81 @@
+{
+  "model": "MLP-full features",
+  "model_key": "mlp_full_features",
+  "feature_set": "full658",
+  "n_bootstrap": 1000,
+  "threshold_strategy": "bootstrap_q65_accuracy",
+  "fold_summary": {
+    "auroc": {
+      "mean": 0.31,
+      "std": 0.21717888172349234,
+      "min": 0.0,
+      "max": 0.5
+    },
+    "auprc": {
+      "mean": 0.2953174603174603,
+      "std": 0.08875654476061633,
+      "min": 0.19642857142857142,
+      "max": 0.4206349206349207
+    },
+    "accuracy": {
+      "mean": 0.725,
+      "std": 0.05590169943749474,
+      "min": 0.625,
+      "max": 0.75
+    },
+    "sensitivity": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "specificity": {
+      "mean": 1.0,
+      "std": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "f1": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "tp": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "tn": {
+      "mean": 5.8,
+      "std": 0.4472135954999579,
+      "min": 5.0,
+      "max": 6.0
+    },
+    "fp": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "fn": {
+      "mean": 2.2,
+      "std": 0.4472135954999579,
+      "min": 2.0,
+      "max": 3.0
+    }
+  },
+  "pooled_metrics": {
+    "auroc": 0.2884012539184953,
+    "auprc": 0.2065749746317438,
+    "accuracy": 0.725,
+    "sensitivity": 0.0,
+    "specificity": 1.0,
+    "f1": 0.0,
+    "tp": 0.0,
+    "tn": 29.0,
+    "fp": 0.0,
+    "fn": 11.0
+  }
+}

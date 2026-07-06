@@ -1,0 +1,52 @@
+{
+  "n_features": 20,
+  "feature_names": [
+    "VDJ_emg_VLO_peak_t_ms",
+    "VDJ_emg_SEMITEND_min",
+    "SSC_imu_roll_deg_peak_t_ms",
+    "VDJ_ik_hip_adduction_r_range",
+    "SSC_syn2_early_integral",
+    "VDJ_id_knee_angle_r_moment_min",
+    "SSC_ik_hip_rotation_r_range",
+    "VDJ_emg_VMO_max",
+    "SSC_emg_MED. GASTRO_min",
+    "SSC_id_hip_adduction_r_moment_std",
+    "VDJ_ik_hip_adduction_r_std",
+    "VDJ_ik_hip_adduction_r_abs_peak",
+    "VDJ_syn1_sparsity",
+    "VDJ_emg_VMO_abs_peak",
+    "SSC_ik_subtalar_angle_r_std",
+    "VDJ_label_duration",
+    "VDJ_grf_grf2_vz_peak_t_ms",
+    "VDJ_id_knee_angle_r_moment_mean",
+    "VDJ_imu_Accel_Earth_Y_mG_abs_peak",
+    "VDJ_id_hip_rotation_r_moment_mean"
+  ],
+  "ssc_feature_names": [
+    "SSC_imu_roll_deg_peak_t_ms",
+    "SSC_syn2_early_integral",
+    "SSC_ik_hip_rotation_r_range",
+    "SSC_emg_MED. GASTRO_min",
+    "SSC_id_hip_adduction_r_moment_std",
+    "SSC_ik_subtalar_angle_r_std"
+  ],
+  "vdj_feature_names": [
+    "VDJ_emg_VLO_peak_t_ms",
+    "VDJ_emg_SEMITEND_min",
+    "VDJ_ik_hip_adduction_r_range",
+    "VDJ_id_knee_angle_r_moment_min",
+    "VDJ_emg_VMO_max",
+    "VDJ_ik_hip_adduction_r_std",
+    "VDJ_ik_hip_adduction_r_abs_peak",
+    "VDJ_syn1_sparsity",
+    "VDJ_emg_VMO_abs_peak",
+    "VDJ_label_duration",
+    "VDJ_grf_grf2_vz_peak_t_ms",
+    "VDJ_id_knee_angle_r_moment_mean",
+    "VDJ_imu_Accel_Earth_Y_mG_abs_peak",
+    "VDJ_id_hip_rotation_r_moment_mean"
+  ],
+  "feature_package": "/home/ubuntu/xiangmu/xiaofang/chap_2/l2_ligit/biomarker_plus4_logreg_package.zip",
+  "model_variant": "biomarker_aux",
+  "uses_biomarker_input": false
+}

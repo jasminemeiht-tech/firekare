@@ -1,0 +1,18 @@
+{
+  "n_candidate_features": 658,
+  "feature_package": "/home/ubuntu/xiangmu/xiaofang/chap_2/l2_ligit/biomarker_plus4_logreg_package.zip",
+  "top_k_values": [
+    20,
+    30,
+    40
+  ],
+  "selection_repeats": 100,
+  "selection_train_fraction": 0.8,
+  "corr_threshold": 0.9,
+  "model": "linear_residual_mlp",
+  "ensemble_size": 10,
+  "loss": "bce",
+  "positive_class_weight": 1.0,
+  "use_weighted_sampler": true,
+  "calibration": "platt"
+}

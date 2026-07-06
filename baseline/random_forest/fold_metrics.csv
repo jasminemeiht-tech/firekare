@@ -1,0 +1,6 @@
+﻿model_key,model,feature_set,fold,n_train,n_val,threshold,auroc,auprc,accuracy,sensitivity,specificity,f1,tp,tn,fp,fn
+random_forest,Random Forest,biomarker20,0,32,8,0.4307300855323174,0.8333333333333334,0.5833333333333333,0.75,0.0,1.0,0.0,0.0,6.0,0.0,2.0
+random_forest,Random Forest,biomarker20,1,32,8,0.44710724262812246,0.7500000000000001,0.5,0.75,0.5,0.8333333333333334,0.5,1.0,5.0,1.0,1.0
+random_forest,Random Forest,biomarker20,2,32,8,0.4152668064391749,0.9333333333333333,0.9166666666666666,0.75,0.3333333333333333,1.0,0.5,1.0,5.0,0.0,2.0
+random_forest,Random Forest,biomarker20,3,32,8,0.45173382964667513,1.0,1.0,0.875,0.5,1.0,0.6666666666666666,1.0,6.0,0.0,1.0
+random_forest,Random Forest,biomarker20,4,32,8,0.4609997664058612,1.0,1.0,1.0,1.0,1.0,1.0,2.0,6.0,0.0,0.0
