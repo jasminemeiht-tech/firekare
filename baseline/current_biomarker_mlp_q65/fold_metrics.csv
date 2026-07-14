@@ -1,6 +1,0 @@
-﻿model_key,model,feature_set,fold,n_train,n_val,threshold,auroc,auprc,accuracy,sensitivity,specificity,f1,tp,tn,fp,fn
-current_biomarker_mlp_q65,Biomarker MLP q65,biomarker20,0,32,8,0.3275245874785029,0.9166666666666667,0.8333333333333333,0.875,0.5,1.0,0.6666666666666666,1.0,6.0,0.0,1.0
-current_biomarker_mlp_q65,Biomarker MLP q65,biomarker20,1,32,8,0.3841118750558501,1.0,1.0,1.0,1.0,1.0,1.0,2.0,6.0,0.0,0.0
-current_biomarker_mlp_q65,Biomarker MLP q65,biomarker20,2,32,8,0.3007729281645735,0.9333333333333333,0.9166666666666666,0.875,0.6666666666666666,1.0,0.8,2.0,5.0,0.0,1.0
-current_biomarker_mlp_q65,Biomarker MLP q65,biomarker20,3,32,8,0.3525357194663847,1.0,1.0,0.875,1.0,0.8333333333333334,0.8,2.0,5.0,1.0,0.0
-current_biomarker_mlp_q65,Biomarker MLP q65,biomarker20,4,32,8,0.3821643818114181,1.0,1.0,0.875,1.0,0.8333333333333334,0.8,2.0,5.0,1.0,0.0

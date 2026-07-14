@@ -1,7 +1,0 @@
-﻿Model,TP,TN,FP,FN
-Linear SVM,9,27,2,2
-RBF-SVM,8,25,4,3
-Random Forest,5,28,1,6
-XGBoost,1,29,0,10
-MLP-full features,0,29,0,11
-Biomarker MLP q65,9,27,2,2

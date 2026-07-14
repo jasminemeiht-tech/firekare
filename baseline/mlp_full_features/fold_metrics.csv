@@ -1,6 +1,0 @@
-﻿model_key,model,feature_set,fold,n_train,n_val,threshold,auroc,auprc,accuracy,sensitivity,specificity,f1,tp,tn,fp,fn
-mlp_full_features,MLP-full features,full658,0,32,8,0.8849999999999999,0.41666666666666663,0.30952380952380953,0.75,0.0,1.0,0.0,0.0,6.0,0.0,2.0
-mlp_full_features,MLP-full features,full658,1,32,8,0.8799999999999999,0.5,0.325,0.75,0.0,1.0,0.0,0.0,6.0,0.0,2.0
-mlp_full_features,MLP-full features,full658,2,32,8,0.95,0.4666666666666666,0.4206349206349207,0.625,0.0,1.0,0.0,0.0,5.0,0.0,3.0
-mlp_full_features,MLP-full features,full658,3,32,8,0.9149999999999999,0.0,0.19642857142857142,0.75,0.0,1.0,0.0,0.0,6.0,0.0,2.0
-mlp_full_features,MLP-full features,full658,4,32,8,0.9349999999999999,0.16666666666666669,0.225,0.75,0.0,1.0,0.0,0.0,6.0,0.0,2.0
